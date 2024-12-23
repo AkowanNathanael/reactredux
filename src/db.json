@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "lHth3RN7HZtglkxHEub49",
+      "name": "grad",
+      "email": "err@gmail.com",
+      "password": "wjwiwwi",
+      "gender": "female"
+    },
+    {
+      "id": "Jskp6LU45L4C_LGf0Bs2w",
+      "name": "grace nami",
+      "email": "gracenami@gmail.com",
+      "password": "29384738",
+      "gender": "male"
+    }
+  ],
+  "task": [
+    {
+      "id": "tRNFMYTPsMTN6zfOEr1i4",
+      "task": "nnk new thing here",
+      "description": "jtssting",
+      "isfav": true,
+      "isdone": true
+    },
+    {
+      "id": "evwQSYS9aenyVMExGjehj",
+      "task": "cooking",
+      "description": "cooke rice and stew",
+      "isfav": false,
+      "isdone": false
+    },
+    {
+      "id": "TNascaLyYnTVIhxHmbdRR",
+      "task": "eragon",
+      "description": "this is  something else",
+      "isfav": true,
+      "isdone": false
+    },
+    {
+      "id": "SXyFfL_IW9_KdyQjnvi91",
+      "task": "hello",
+      "description": "there is something i want to say",
+      "isfav": true,
+      "isdone": true
+    }
+  ]
+}
